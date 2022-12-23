@@ -11,7 +11,7 @@ form.addEventListener('submit', e => {
 })
 
 let cursos = ['InformÃ¡tica', 'EdificaÃ§Ãµes', 'MecÃ¢nica'];
-let mensagens = ['', '<a href="https://youtu.be/QJJYpsA5tv8">Clique aqui</a>', 'https://youtu.be/dQw4w9WgXcQ', 'https://youtu.be/dQw4w9WgXcQ']
+let mensagens = ['', '<a href="https://youtu.be/QJJYpsA5tv8">Clique aqui</a>', '<a href="https://youtu.be/dQw4w9WgXcQ">Clique aqui</a>', '<a href="https://youtu.be/dQw4w9WgXcQ">Clique aqui</a>']
 
 let addMensagem = () => {
     let botao = pegarObjeto('btn', 'Elemento botÃ£o nÃ£o encontrado!');
